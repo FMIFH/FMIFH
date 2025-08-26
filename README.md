@@ -33,7 +33,7 @@
 ---
 
 ### 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=FMIFH&theme=darkhub&no-frame=true&row=1&column=6)
 
 ---
 
