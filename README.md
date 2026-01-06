@@ -40,7 +40,6 @@
 ### 🎶 Fun Stuff
 - 🏍️ “Four wheels move the body, two wheels move the soul.”
 - 🏎️ Car enthusiast always geeking out on engineering & design
-- 🏋️‍♂️ PRs and AI models — I lift both! 💪
 
 ---
 
